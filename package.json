@@ -1,6 +1,6 @@
 {
   "homepage": "http://panticaleksandar.github.io/order-app",
-  "name": "react-complete-guide",
+  "name": "order-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
